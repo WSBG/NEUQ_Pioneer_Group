@@ -17,16 +17,17 @@ A workspace for Pioneer Group
   <a href="https://github.com/WSBG/NEUQ_Pioneer_Group.git/Best_README_template/">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
-A workspace for Pioneer Group
 
 [your-project-path]:WSBG/NEUQ_Pioneer_Group
-[contributors-shield]: https://img.shields.io/github/contributors/https://github.com/WSBG/NEUQ_Pioneer_Group.git.svg?style=flat-square
-[contributors-url]: https://github.com/WSBG/NEUQ_Pioneer_Group.git/Best_README_template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/https://github.com/WSBG/NEUQ_Pioneer_Group.git.svg?style=flat-square
-[forks-url]: https://github.com/WSBG/NEUQ_Pioneer_Group.git/Best_README_template/network/members
-[stars-shield]: https://img.shields.io/github/stars/https://github.com/WSBG/NEUQ_Pioneer_Group.git.svg?style=flat-square
-[stars-url]: https://github.com/WSBG/NEUQ_Pioneer_Group.git/Best_README_template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/https://github.com/WSBG/NEUQ_Pioneer_Group.git.svg?style=flat-square
-[license-url]: https://github.com/https://github.com/WSBG/NEUQ_Pioneer_Group.git/blob/master/LICENSE.txt
-[issues-url]: https://img.shields.io/github/issues/https://github.com/WSBG/NEUQ_Pioneer_Group.git.svg
+[contributors-shield]: https://img.shields.io/github/contributors/WSBG/NEUQ_Pioneer_Group.svg?style=flat-square
+[contributors-url]: https://github.com/WSBG/NEUQ_Pioneer_Group/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/WSBG/NEUQ_Pioneer_Group.svg?style=flat-square
+[forks-url]: https://github.com/WSBG/NEUQ_Pioneer_Group/network/members
+[stars-shield]: https://img.shields.io/github/stars/WSBG/NEUQ_Pioneer_Group.svg?style=flat-square
+[stars-url]: https://github.com/WSBG/NEUQ_Pioneer_Group/stargazers
+[issues-shield]: https://img.shields.io/github/issues/WSBG/NEUQ_Pioneer_Group.svg?style=flat-square
+[issues-url]: https://github.com/WSBG/NEUQ_Pioneer_Group/issues
+[license-shield]: https://img.shields.io/github/license/WSBG/NEUQ_Pioneer_Group.svg?style=flat-square
+[license-url]: https://github.com/WSBG/NEUQ_Pioneer_Group/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/shaojintian
