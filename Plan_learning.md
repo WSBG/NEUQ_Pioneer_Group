@@ -23,8 +23,7 @@ PS:如果有问题,请在群里提问,群里会有人解答.
 1.复现mnist手写数字识别代码
 2.（较难选做，加分项）近年来，Transfomer 架构在计算机视觉领域得到了广泛的应用，逐渐成为了代替CNN，Resnet 等基于卷积的神经网络成为新的骨干网络。要求使用Vision Transformer 搭建网络，并载入预训练参数，以下两个数据集中任选一个进行训练。但对最终结果不做要求，能跑通即可。相对其他任务难度较大，考验对于transformer 架 构 的 理解和掌握，建议谨慎选择。可参考 git 项目：[https://github.com/google-research/vision_transformer。](https://github.com/google-research/vision_transformer)。Cifa100 和 CIFAR-10 是同一个数据集，不同之处在于cifar100划分的类别更多更细。它有100个类，每个类包含600个图像。，每类各有500个训练图像和100 个测试图像。CIFAR-100中的100个类被分成20个超类。每个图像都带有一个“精细”标签（它所属的类）和一个“粗糙”标签（它所属的超类）![image](https://github.com/user-attachments/assets/0e4d87dc-9a87-4a8e-a3cb-6c299d0c4752)
 
-也可以使用Caltech256数据集，数据集下载地址：[https://link.zhihu.com/?target=http%3A//www.vision.caltech.edu/Image_Datase
- ts/Caltech256/](https://link.zhihu.com/?target=http%3A//www.vision.caltech.edu/Image_Datasets/Caltech256/)
+也可以使用Caltech256数据集，数据集下载地址：[https://link.zhihu.com/?target=http%3A//www.vision.caltech.edu/Image_Datase ts/Caltech256/](https://link.zhihu.com/?target=http%3A//www.vision.caltech.edu/Image_Datasets/Caltech256/)
 3.针对基础知识和代码提出部分问题，解答即可。
 
 ## 能得到什么
