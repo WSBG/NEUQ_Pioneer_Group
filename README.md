@@ -1,4 +1,6 @@
-# NEUQ Pioneer Group
+# NEUQ_Pioneer_Group
+
+<!-- PROJECT SHIELDS -->
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
@@ -13,9 +15,8 @@
   <a href="https://github.com/WSBG/NEUQ_Pioneer_Group.git/Best_README_template/">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
-  <h1 align="center">NEUQ_Pioneer_Group</h3>
+  <h1 align="center">欢迎每一位热爱AI的小伙伴！</h3>
   <p align="center">
-    欢迎每一位热爱AI的小伙伴！
   </p>
 </p>
 
