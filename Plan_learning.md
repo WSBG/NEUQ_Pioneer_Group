@@ -5,7 +5,7 @@
 PS:如果有问题,请在群里提问,群里会有人解答.  
 去问ChatGPT也是完全OK的,比较推荐GPT4o和Claude3.5-sonnet
 # 从0开始的AI之旅
-环境配置:https://blog.csdn.net/qq_43874102/article/details/123164105
+环境配置:[https://blog.csdn.net/qq_43874102/article/details/123164105](https://www.bilibili.com/video/BV1Fo46e3EAZ/?spm_id_from=333.337.search-card.all.click&vd_source=e93406706d42cbeffbe98257dede7f44)
 
 一.如果你没有**Python**基础,请你学完这个视频的前九章[点击这里](https://www.bilibili.com/video/BV1qW4y1a7fU?spm_id_from=333.788.recommend_more_video.0&vd_source=e93406706d42cbeffbe98257dede7f44)
 
