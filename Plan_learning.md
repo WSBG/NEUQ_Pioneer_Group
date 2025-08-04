@@ -1,6 +1,6 @@
 <!-- 可爱的封面 -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/fe/11/1f/fe111f57f49d29ddc8b78f8fc8b5c487.gif" width="300"/>
+  <img src="miao.gif" width="300"/>
 </p>
 
 <h1 align="center">✧从0开始的AI之旅✧ <br>~ 2025萌版指引 ~</h1>
@@ -50,7 +50,7 @@
 
 ### 四（选修支线任务）. 具身智能方向（偏科研&论文导向）：
 🦾 需要掌握强化学习基础  
-🔗 [强化学习国课推荐](https://www.icourse163.org/course/XHUN-1470436188)  
+🔗 [强化学习课推荐](https://www.icourse163.org/course/XHUN-1470436188)  
 💌 有兴趣请联系学长 QQ：787471313
 
 ---
@@ -78,7 +78,7 @@
 
 1. 🏆 参与百度飞桨 AI 赛事、项目、开源实习机会！
 2. 📚 打下 AI 基础，为后续校内/省级/国家级比赛蓄力！
-3. 🧪 有机会参与语言与智能系统实验室的科研项目 & 论文产出！
+3. 🧪 有机会参与实验室的科研项目 & 论文产出！
 4. 🏢 免费使用科技楼九楼的六个工位！（摸鱼也没人管你～）
 
 ---
@@ -91,5 +91,5 @@
 ---
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/f7/c7/25/f7c72586ea992fd4be5d1ac1c902c444.gif" width="220"/>
+  <img src="image.png" width="220"/>
 </p>
