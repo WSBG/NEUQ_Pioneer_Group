@@ -33,3 +33,7 @@
 [license-url]: https://github.com/WSBG/NEUQ_Pioneer_Group/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/shaojintian
+
+<p align="center">
+  <img src="Go.png" width="220"/>
+</p>
